@@ -3,10 +3,10 @@
   <h1>
     <img src="public/Bookem-logo.png" alt="Bookem Logo" title="Bookem Logo" />
     <br />
-    Bookem1.0
+    Bookem
   </h1>
   <p>
-    <strong>Bookem1.0</strong> is a community-driven platform where book enthusiasts can trade, discuss, and discover new books.
+    <strong>Bookem</strong> is a community-driven platform where book enthusiasts can trade, discuss, and discover new books.
   </p>
 
   <hr />
